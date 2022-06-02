@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/putraicipiyey/File-Sharing",
+  "repository": "https://github.com/Ridhoobot/fsub-protect-content",
   "logo": "https://telegra.ph/file/f99edfd62cc47c9f52033.jpg",
   "env": {
     "TG_BOT_TOKEN": {
