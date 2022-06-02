@@ -25,7 +25,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.**
 #### Deploy on Bot Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=cHV0cmFpY2lwaXlleS9GaWxlLVNoYXJpbmcgbWFpbg)</br>
 #### Deploy on Web heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/putraicipiyey/File-Sharing)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ridhoobot/fsub-protect-content)</br>
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
