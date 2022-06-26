@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Ridhoobot/fsub-protect-content",
-  "logo": "",
+  "logo": "https://telegra.ph/file/56ee04b09961e94f28ef5.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
