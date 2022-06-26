@@ -51,7 +51,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "<b>Hello {first}\n\nAnda harus bergabung di Channel/Grup saya untuk menggunakan saya\n\nSilakan Join Ke Channel Terlebih Dahulu</b>"
+      "value": "<b>ʜᴇʟʟᴏ {first}\n\nᴍᴀᴀꜰ ᴀɴᴅᴀ ʙᴇʟᴜᴍ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ / ɢʀᴜᴘ ᴋᴀᴍɪ !! ꜱɪʜʟᴀᴋᴀɴ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ᴅᴀɴ ɢʀᴜᴘ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴜɴᴛᴜᴋ ᴅᴀᴘᴀᴛ ᴍᴇʟɪʜᴀᴛ ᴠɪᴅᴇᴏ ᴅᴀʀɪ ʙᴏᴛ ɪɴɪ !!\n\n\nᴊᴏɪɴ ↓</b>"
     },
     "PROTECT_CONTENT": {
       "description": "Isi True Jika Ingin Untuk Mencegah File Di Teruskan Oleh Orang Lain or False Untuk mematikan ",
