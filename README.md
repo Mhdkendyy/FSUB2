@@ -1,6 +1,6 @@
 ##
 ### APO NNETAWIN 
-#### ![img](https://telegra.ph/file/21f94371e3056047db669.jpg)
+
 
 ##
 ### RIDO-PROTECT-CONTENT
