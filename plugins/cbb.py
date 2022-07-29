@@ -13,7 +13,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text=f"<b>Informasi Bot ini:\n\n@{client.username} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.\n\n • OWNER LONTE : @idooo8\n • LONTE BAYARAN : @{OWNER}\n • CHANNEL : <a href='https://t.me/+iqQw6MbLKtM0MjFh'>JOIN</a>\n • GROUP : <a href='https://t.me/asupanmalam999'>JOIN</a>\n\n Pemilik Repo @idooo8</b>\n",
+            text=f"<b>Informasi.\n\n • OWNER REPO : @idooo5\n • CHANNEL : <a href='https://t.me/+AYcedopCRLU5MDE1'>JOIN</a>\n • GROUP : <a href='https://t.me/asupanmalam999'>JOIN</a>\n\n Repo @idooo5</b>\n",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("• ᴛᴜᴛᴜᴘ •", callback_data="close")]]
