@@ -1,6 +1,3 @@
-# (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
 
 import pyromod.listen
 import sys
@@ -96,13 +93,13 @@ class Bot(Client):
                 f"Pastikan @{self.username} adalah admin di Channel DataBase anda, CHANNEL_ID Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Gabung Group https://t.me/demusplace untuk Bantuan"
+                "Bot Berhenti. Gabung Group https://t.me/ramsupportt untuk Bantuan"
             )
             sys.exit()
 
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/demusplace"
+            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/ramsupportt"
         )
 
     async def stop(self, *args):
